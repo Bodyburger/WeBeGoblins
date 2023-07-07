@@ -41,6 +41,9 @@
 *.VC.db
 *.VC.opendb
 
+# Downloaded assets
+Content/Models/*
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
